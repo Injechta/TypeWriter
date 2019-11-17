@@ -1,2 +1,3 @@
 # TypeWriter
-Some Typewriter effect , usind JavaScript CSS and HTML
+Some Typewriter effect , using JavaScript CSS and HTML.
+
